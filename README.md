@@ -14,5 +14,4 @@ If you use this library in an academic publication, I would be ever so grateful 
 
 Ciprian Gerstenberger, Miika Lehtinen, Michael Rießler, Jack Rueter, Trond Trosterud. (2018, January 11). Skolt Sami to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1146854
 
-[![DOI](https://zenodo.org/badge/1146854.svg)](https://zenodo.org/badge/latestdoi/1146854)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1146854.svg)](https://doi.org/10.5281/zenodo.1146854)
