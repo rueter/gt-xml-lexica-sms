@@ -12,7 +12,7 @@ Mariann Bernhardt, Merja Fofonoff, Mika Hämäläinen, Ryan Johnson, Markus Juut
 # Cite
 If you use this library in an academic publication, I would be ever so grateful if you cited it as follows:
 
-Jack Rueter. (2018, January 11). Skolt Sami to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.117345186
+Jack Rueter. (2018, January 11). Skolt Sami to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1146854
 
-[![DOI](https://zenodo.org/badge/117345186.svg)](https://zenodo.org/badge/latestdoi/117345186)
+[![DOI](https://zenodo.org/badge/1146854.svg)](https://zenodo.org/badge/latestdoi/1146854)
 
