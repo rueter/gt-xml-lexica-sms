@@ -1,6 +1,8 @@
 # gt-xml-lexica-sms
 Giellatekno xml lexica for Skolt Sami (Samic, Uralic)
-https://zenodo.org/badge/117345186.svg
+If you use this library in an academic publication, I would be ever so grateful if you cited it as follows:
+Jack Rueter. (2018, January 11). Skolt Sami to X nouns (Version v1.0). Zenodo.
+[![DOI](https://zenodo.org/badge/117345186.svg)](https://zenodo.org/badge/latestdoi/117345186)
 
 This dictionary material derives from several projects working with the Skolt Sami language using the Giellatekno infrastructure in Tromsø, Norway.
 Ciprian Gerstenberger
